@@ -1,10 +1,10 @@
-asyncer==0.0.2
-fastapi==0.94.1
-nltk==3.8.1
+asyncer
+fastapi
+nltk
 numpy
-pandas==1.5.3
-python-dateutil==2.8.2
-python-multipart==0.0.6
+pandas
+python-dateutil
+python-multipart
 scikit-learn
-starlette==0.26.1
+starlette
 uvicorn
